@@ -10,7 +10,7 @@ function Home() {
         <div className="flex justify-center mb-8">
           <div className="w-36 h-36 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-full border-4 border-red-600 shadow-lg hover:shadow-red-500/60 overflow-hidden transition duration-300 bg-zinc-900">
             <img
-              src="public/arshak.png"
+              src="assets/avatar.png"
               alt="Arshak"
               className="w-full h-full object-cover"
             />
